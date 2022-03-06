@@ -1,0 +1,245 @@
+* {
+  font-family: url("https://fonts.google.com/");
+  opacity: 1px;
+}
+body {
+  background-color: rgb(3, 2, 49);
+  height: 100%;
+}
+.logo {
+  color: rgb(255, 255, 255);
+  position: scroll;
+  width: 120%;
+  padding-top: 15px;
+  word-spacing: 10px;
+}
+#direction {
+  display: inline-block;
+  padding: 35px;
+  margin: 0 auto;
+  align-items: right;
+}
+#logo {
+  border-right: 3px solid rgba(221, 165, 10, 0.89);
+  height: 10px;
+  padding: 22px;
+  font-weight: lighter;
+  font-style: Lobster;
+  font-size: 20px;
+  margin: 0px 900px 0px 10px;
+}
+.kali {
+  height: 100px;
+  width: 80px;
+  position: relative;
+  left: 8px;
+}
+#search {
+  background-color: rgba(36, 30, 61, 0.856);
+  color: rgba(12, 12, 12, 0.863);
+  width: 180px;
+  border-radius: 20px;
+  height: 10px;
+  font-size: 12px;
+}
+#search:hover {
+  color: white;
+  font-size: 15px;
+}
+.Title {
+  background-image: url("images/istockphot.jpg");
+  background-repeat: no-repeat;
+  background-size: 2500px 1000px;
+  background-position: center top;
+  background-attachment: fixed;
+  width: 100%;
+}
+.itle {
+  font-size: 70px;
+  color: rgba(4, 2, 75, 0.616);
+  position: relative;
+  top: 100px;
+  margin: 0px;
+  align-items: center;
+  padding: 120px;
+  height: 30px;
+  word-spacing: 30px;
+  padding-top: 80px;
+  margin-left: 380px;
+}
+#title {
+  align-items: center;
+  font-size: 40px;
+  color: rgb(3, 2, 65);
+  padding: 120px;
+  margin-left: 570px;
+  position: relative;
+  bottom: 85px;
+  box-sizing: border-box;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+.hapa {
+  align-items: center;
+  background-color: rgba(236, 233, 233, 0.301);
+  padding: 10px;
+  width: 150px;
+  color: rgba(59, 26, 26, 0.596);
+  margin-left: 830px;
+  position: relative;
+  bottom: 160px;
+  margin-bottom: 100px;
+  border: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.hapa:hover {
+  background-color: rgba(3, 3, 53, 0.904);
+  color: white;
+  width: 170px;
+}
+.does {
+  background-image: url("images/istockphoto-.jpg");
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.63);
+  background-size: 2000px 900px;
+  background-position: center;
+  background-attachment: fixed;
+}
+.do_s {
+  float: auto;
+  word-spacing: normal;
+  font-style: Teko;
+  font-size: 30px;
+  padding: 120px;
+  margin: 0px;
+}
+#does {
+  position: relative;
+  bottom: 80px;
+}
+#ds {
+  position: relative;
+  bottom: 270px;
+  color: rgba(0, 0, 0, 0.856);
+}
+.savis {
+  color: white;
+  margin-right: 2px;
+  font-size: 30px;
+  padding: 100px;
+}
+.pop {
+  display: inline-flex;
+  padding: 70px;
+  background-image: url("images/technology-wire-mesh-network-connection-digital-background_1017-28407.webp");
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.63);
+  background-size: 2000px 800px;
+  background-position: center;
+  background-attachment: scroll;
+}
+.app {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  border: 5px;
+  margin: 5px;
+}
+#app {
+  font-size: 25px;
+  font-family: monospace;
+  color: rgba(255, 255, 255, 0.884);
+  font-style: italic;
+  text-align: left;
+  margin: 5px;
+}
+.consultancy {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.offer {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.tech {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.design {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.enterprise {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.custom {
+  color: rgba(255, 255, 255, 0.884);
+  font-size: 25px;
+  text-align: left;
+  margin: 5px;
+}
+.foot {
+  display: inline-flex;
+  background-color: rgba(0, 0, 49, 0.74);
+  width: 100%;
+  color: white;
+  font-size: 25px;
+  text-align: left;
+  padding-left: 0px;
+}
+.location {
+  margin: 15px;
+  border: 12px;
+  font-size: 25px;
+  margin-left: 350px;
+}
+.Links {
+  font-size: 25px;
+  margin: 15px;
+  border: 12px;
+  margin-left: 60px;
+}
+.news {
+  margin-left: 100px;
+}
+.box {
+  width: 200px;
+  background-color: rgba(0, 0, 0, 0.911);
+  border-radius: none;
+  color: white;
+  font-weight: 60px;
+  font-size: 15px;
+}
+.subscribe {
+  background-color: rgba(44, 42, 42, 0.767);
+  color: white;
+  border-radius: 20px;
+  border: 5px;
+}
+.subscribe:hover {
+  background-color: rgba(10, 10, 10, 0.767);
+  width: 60px;
+}
+.sign_Out {
+  font-size: 11px;
+  font-family: Dancing Script;
+  background-color: rgba(0, 0, 49, 0.863);
+  background-attachment: fixed;
+  width: 1872px;
+  color: white;
+  text-align: center;
+  padding: 8px;
+}
